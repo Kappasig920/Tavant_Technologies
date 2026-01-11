@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "repository": "Tavant_Technologies",
+    "purpose": "URL collection for ChatGPT contextual awareness via NotebookLM",
+    "created": "2026-01-11",
+    "last_updated": "2026-01-11",
+    "interview_preparation": true
+  },
+  "categories": {
+    "company_information": {
+      "description": "URLs related to Tavant Technologies company information",
+      "urls": [
+        {
+          "title": "Tavant Technologies Official Website",
+          "url": "https://www.tavant.com/",
+          "description": "Official company website with services, solutions, and company overview",
+          "indexed_in_notebooklm": true,
+          "relevance": "high",
+          "tags": ["company", "overview", "services"]
+        },
+        {
+          "title": "Tavant About Us",
+          "url": "https://www.tavant.com/about-us/",
+          "description": "Company history, mission, vision, and values",
+          "indexed_in_notebooklm": true,
+          "relevance": "high",
+          "tags": ["company", "culture", "values"]
+        },
+        {
+          "title": "Tavant Careers",
+          "url": "https://www.tavant.com/careers/",
+          "description": "Career opportunities and company culture information",
+          "indexed_in_notebooklm": true,
+          "relevance": "high",
+          "tags": ["careers", "culture", "opportunities"]
+        }
+      ]
+    },
+    "technical_resources": {
+      "description": "Technical documentation and resources relevant to Tavant's tech stack",
+      "urls": [
+        {
+          "title": "Tavant Technology Blog",
+          "url": "https://www.tavant.com/blog/",
+          "description": "Technical insights, innovations, and thought leadership",
+          "indexed_in_notebooklm": true,
+          "relevance": "medium",
+          "tags": ["blog", "technical", "insights"]
+        }
+      ]
+    },
+    "industry_insights": {
+      "description": "Industry-specific information related to Tavant's domains",
+      "urls": [
+        {
+          "title": "Tavant Solutions",
+          "url": "https://www.tavant.com/solutions/",
+          "description": "Industry solutions including digital lending, automotive, and more",
+          "indexed_in_notebooklm": true,
+          "relevance": "high",
+          "tags": ["solutions", "industry", "products"]
+        }
+      ]
+    },
+    "interview_preparation": {
+      "description": "Resources specifically for interview preparation",
+      "urls": []
+    }
+  },
+  "usage_instructions": {
+    "for_chatgpt": "This JSON file contains structured URLs that have been indexed in NotebookLM. ChatGPT can reference these URLs to provide better contextual awareness when discussing Tavant Technologies, its services, culture, and technical capabilities.",
+    "how_to_add": "Add new URLs in the appropriate category with title, url, description, indexed_in_notebooklm flag, relevance level, and tags.",
+    "relevance_levels": ["high", "medium", "low"]
+  }
+}
